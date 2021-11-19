@@ -1,2 +1,2 @@
 # Password-Manager
-Simple Password Manager made for Computer Security class
+Simple Password Manager made for Computer Security class.
